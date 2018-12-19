@@ -1,1 +1,1 @@
-# Early-Detection-of-Acute-Kidney-Injury-in-Catastrophic-Incidents-through-Machine-Learning-Approache
+# Early Detection of Acute Kidney Injury in Catastrophic Incidents through Machine Learning Approaches
