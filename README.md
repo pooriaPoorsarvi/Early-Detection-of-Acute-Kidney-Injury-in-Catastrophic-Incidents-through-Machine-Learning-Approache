@@ -1,1 +1,2 @@
 # Early Detection of Acute Kidney Injury in Catastrophic Incidents through Machine Learning Approaches
+This work was done in order to help with problems that come with the lack of resources in Catastrophies. The first notebook only tries to predict the state of patients that have a complete set of info and the second notebook tries to predict the missing information before trying to predict the state of the patient. documentation for the second notebook will be added soon.
